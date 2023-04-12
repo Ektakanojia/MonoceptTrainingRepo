@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveableInterfaceApp", "MoveableInterfaceApp.csproj", "{F1070AB8-3EDA-4B84-B68B-CB822E5E90AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1070AB8-3EDA-4B84-B68B-CB822E5E90AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1070AB8-3EDA-4B84-B68B-CB822E5E90AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1070AB8-3EDA-4B84-B68B-CB822E5E90AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1070AB8-3EDA-4B84-B68B-CB822E5E90AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F92EB0E-7D15-42A2-9D0F-9D00A5E4CFCB}
+	EndGlobalSection
+EndGlobal

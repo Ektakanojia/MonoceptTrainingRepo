@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanLib", "HumanLib\HumanLib.csproj", "{CD18D80D-86BA-41BC-B20F-F7B842F06B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanSerialization", "HumanSerialization\HumanSerialization.csproj", "{6C8094AD-2980-4528-B6C6-6C084E8BE3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD18D80D-86BA-41BC-B20F-F7B842F06B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD18D80D-86BA-41BC-B20F-F7B842F06B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD18D80D-86BA-41BC-B20F-F7B842F06B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD18D80D-86BA-41BC-B20F-F7B842F06B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8094AD-2980-4528-B6C6-6C084E8BE3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8094AD-2980-4528-B6C6-6C084E8BE3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8094AD-2980-4528-B6C6-6C084E8BE3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8094AD-2980-4528-B6C6-6C084E8BE3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEF75202-639D-44DF-8A5D-48047AD974C0}
+	EndGlobalSection
+EndGlobal

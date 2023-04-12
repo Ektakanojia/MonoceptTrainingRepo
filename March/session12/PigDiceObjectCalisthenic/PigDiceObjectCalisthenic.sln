@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigDiceObjectCalisthenic", "PigDiceObjectCalisthenic.csproj", "{7663E59C-D4E1-44B9-8AA0-6A15F1926B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7663E59C-D4E1-44B9-8AA0-6A15F1926B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7663E59C-D4E1-44B9-8AA0-6A15F1926B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7663E59C-D4E1-44B9-8AA0-6A15F1926B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7663E59C-D4E1-44B9-8AA0-6A15F1926B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330496EB-4092-4D2B-8C93-6112BAD4F38C}
+	EndGlobalSection
+EndGlobal

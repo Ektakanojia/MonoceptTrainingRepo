@@ -1,0 +1,36 @@
+                      Summary_Version control system
+1 What is version control system
+2 collobaration
+3 Repository
+4 Commit
+5 Advantage of VSC
+6 Types of VSC
+    Centralised version control/Subversion
+    Distributed version control
+ ..........................Version control system..........................
+ Version control system is software that Manage the Content/Track Changes
+ Version control System is used for tracking the changes and manage it pretty smoothly without keeping the    copies of many files and folder
+ ...........................Why do we need it ?................
+ Having the backup of the data and make changes some other day as per need
+.................Collobaration............
+Basically means Two or more programmer working on same project for completing it as soon as possible.
+ suppose there is 10 Day project
+ so instead of completing it on 10 days 2 programmer work together and complete it within 7 days.
+.........................Repository/Presistance Storage.....................
+Repositrory  is nothing but a storages,that stores the Commits.
+it contain the information about all the changes that can made on particular day
+.........................Commit...............................................
+ What ever changes we made on file on a particular day or we can say that save changes.
+..........................Advantage of VSC.........................................
+1- In repository we have Commit1, commit2,commit3,commit4. but we have we have some bug in commit4 so we can travel back to commit3 and start it from the beggining that is the biggest advantage of VCS.
+2- Collobration that help to resolve confilit.
+..............................Types of VCS...........................................
+1 centralised version control/subversion
+   They are having the repository that contains the commits,that repository will be on central server only
+    suppose you want to check out on day 9 file you make changes and get back it on central server 
+    But there is problem in case of central serever is down. so this is one of the big disadvantage of central server we need it every time
+2 Distributed version control 
+  They are also having the repository where commits are stored and repository is on Remote serever 
+   so suppose you want to work on day 9 file then cilent machine will also having the Whole repostiory on there machince.
+ Distributed version control is Fastest.
+ Example is Git version control 
