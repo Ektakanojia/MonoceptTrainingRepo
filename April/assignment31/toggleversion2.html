@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Toogle version 2</h1>
+    <img id="image"
+        src="https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGNhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" />
+    <input type="checkbox" value="Tick me" id="checkBox" onclick="displayImage(event)" />
+    <script>
+        function displayImage(event)
+        {
+            console.log("inside display image")
+            var imgPic = document.getElementById("image")
+            var display = imgPic.style.visibility = 'hidden'
+            var res = event.target.value
+            if(res=="Tick me"){
+                 res=document.getElementById("checkBox").value="UnTick me"
+                console.log(res)
+            }else if(res=="UnTick me"){
+                //imgPic= document.getElementById("image")
+                imgPic.style.visibility='visible'
+                res=document.getElementById("checkBox").value="Tick me"
+            }
+
+
+        }
+    </script>
+</body>
+
+</html>

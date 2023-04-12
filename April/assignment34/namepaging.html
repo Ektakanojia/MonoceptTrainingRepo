@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Namepaging</h1>
+    <button id="nextBtn" value="Next">Next</button>
+    <button id="previousBtn" value="Previous">Previous</button>
+    <p id="myText"></p>
+    <script>
+        debugger;
+        var names = ["Ekta", "Ankit", "Subran", "Adii", "Subham", "Ratnesh", "Vidya", "Keerthana"]
+        var i = 0
+        var j = names.length
+        var text = document.getElementById("myText")
+        var previousVisibility = document.getElementById("previousBtn")
+        previousVisibility.style.visibility = 'hidden'
+        document.getElementById("nextBtn").onclick = function ()
+        {
+
+            //text.innerHTML = names[0]
+            i %= names.length
+            text.innerHTML = names[i];
+            i++
+            if (i == names.length)
+            {
+            previousVisibility.style.visibility='visible'
+            }
+            
+        }
+        document.getElementById("previousBtn").onclick = function ()
+        {
+            //text.innerHTML = names[j]
+            j--
+            text.innerHTML = names[j];
+        }
+    </script>
+
+</body>
+
+</html>

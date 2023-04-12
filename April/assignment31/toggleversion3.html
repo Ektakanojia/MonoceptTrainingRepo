@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Toggle version 3</h1>
+    <img id="imagePic"
+        src="https://images.unsplash.com/photo-1533743983669-94fa5c4338ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGNhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" />
+    <button id="btn" value="Hide" onclick="displayImage(event)">Hide</button>
+    <script>
+       
+        function displayImage(event)
+        {
+            console.log("inside display image")
+            var imgPic = document.getElementById("imagePic")
+            imgPic.style.visibility = 'hidden'
+            //console.log(event.target.value)
+            var res = event.target.value;
+            console.log(res)
+            
+                if (res == "Hide")
+                {
+                    var res = document.getElementById("btn").value = "Show"
+                    document.getElementById("btn").textContent = "Show"
+                    console.log(res)
+                } else if (res == "Show")
+                {
+                    console.log("inside the show image function ")
+                    var imgPic = document.getElementById("imagePic")
+                    imgPic.style.visibility = 'visible'
+                    res=document.getElementById("btn").value="Hide"
+                    document.getElementById("btn").textContent = "Hide"
+
+                }
+            
+
+
+        }
+
+    </script>
+</body>
+
+</html>

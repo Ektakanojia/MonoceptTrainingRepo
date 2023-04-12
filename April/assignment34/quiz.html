@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Object Array that contain question ,option and answer</h1>
+    <div id="container">
+        <div id="content"></div>
+        <div id="allQuestions"></div>
+        <div id="question"></div>
+        <div id="choices"></div>
+        <div id="score"></div>
+    </div>
+
+    <button id="next" onClick="askQuestion()">Next</button>
+    <script>
+        var allQuestions = [
+            {
+                id: 0,
+                question: "Delhi is the captial of India?",
+                option: ["Yes", "NO"],
+                correctanswer: "Yes"
+            },
+            {
+
+                id: 1,
+                question: "Bangkok the captial of Thailand?",
+                option: ["Yes", "NO"],
+                correctanswer: "Yes"
+            },
+            {
+
+                id: 2,
+                question: "Synonym for Continuous is nonstop?",
+                option: ["Yes", "No"],
+                correctanswer: "Yes"
+            },
+            {
+
+                id: 3,
+                question: "Synonym for Absorb is takein?",
+                choices: ["Yes", "No"],
+                correctanswer: "Yes"
+            },
+
+        ];
+        var container = document.getElementById("container")
+        var content = document.getElementById("content")
+        var question = document.getElementById("question")
+        var choiceContainer = document.getElementById("option")
+        var nextButton = document.getElementById("next")
+
+        var i = 0;
+        var currentQuestion = 0;
+        var questionAsked = true;
+
+        function askQuestion()
+        {
+            
+            var askQuestions = allQuestions[currentQuestion].question
+            document.getElementById("question").innerHTML = askQuestions
+            currentQuestion++
+            showChoices()
+        }
+       
+        
+
+       
+
+    </script>
+</body>
+
+</html>

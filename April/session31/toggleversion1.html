@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <button id="btnHide" onclick="hideImage(event)">Hide</button>
+        <button id="btnShow" onclick="showImage(event)">Show</button>
+        <img id="imgPicture"
+            src="https://images.unsplash.com/photo-1680631757284-617846a5ef29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60" />
+    </div>
+
+    <script>
+        function hideImage()
+        {
+            console.log("inside hide image")
+            var imgPic = document.getElementById("imgPicture")
+            imgPic.style.visibility = 'hidden'
+        }
+        function showImage()
+        {
+            console.log("inside show image")
+            var imgPic = document.getElementById("imgPicture")
+            imgPic.style.visibility = 'visible'
+        }
+    </script>
+</body>
+
+</html>

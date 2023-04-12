@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <script>
+    f1();
+    function f1(){
+       console.log("inside f1,function statement");
+    }
+ </script>   
+ <script>
+    //f2();
+    var f2 = function ()
+    {
+        console.log("inside f2, function expression");
+    }
+    f2();
+ </script>
+ <script>
+   f3();
+   var i;
+   function f3(){
+      console.log("inside f3,fn statement");
+      for( i=0;i<10;i++){
+         console.log(i);
+      }
+      console.log("value of i after loop"+i);
+   }
+   console.log("end of script and value of i"+i);
+ </script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Constructor Pattern</h1>
+    <script>
+        function customer(id,name)
+        {
+            this.id=id;
+            this.name=name;
+            this.getDetails= function (){
+                return "id is: "+this.id+"name is :"+this.name;
+            }
+        }
+        // if we forget to initlized the new keyword then it will pollute the global name space
+        var c1= new customer(101,"Ekta")
+        //var c1=customer(101,"Ekta")
+        console.log(c1)
+        console.log(c1.getDetails())
+        c1.id=-201
+        console.log(c1)
+    </script>
+</body>
+</html>
