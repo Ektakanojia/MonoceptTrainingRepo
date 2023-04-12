@@ -1,0 +1,16 @@
+C:\MonoceptTraning\Assignment4_POC\ExampleOfOut\bin\Debug\ExampleOfOut.exe.config
+C:\MonoceptTraning\Assignment4_POC\ExampleOfOut\bin\Debug\ExampleOfOut.exe
+C:\MonoceptTraning\Assignment4_POC\ExampleOfOut\bin\Debug\ExampleOfOut.pdb
+C:\MonoceptTraning\Assignment4_POC\ExampleOfOut\obj\Debug\ExampleOfOut.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment4_POC\ExampleOfOut\obj\Debug\ExampleOfOut.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment4_POC\ExampleOfOut\obj\Debug\ExampleOfOut.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment4_POC\ExampleOfOut\obj\Debug\ExampleOfOut.exe
+C:\MonoceptTraning\Assignment4_POC\ExampleOfOut\obj\Debug\ExampleOfOut.pdb
+D:\MonoceptTraning\Feburary\Assignment4_POC\ExampleOfOut\bin\Debug\ExampleOfOut.exe.config
+D:\MonoceptTraning\Feburary\Assignment4_POC\ExampleOfOut\bin\Debug\ExampleOfOut.exe
+D:\MonoceptTraning\Feburary\Assignment4_POC\ExampleOfOut\bin\Debug\ExampleOfOut.pdb
+D:\MonoceptTraning\Feburary\Assignment4_POC\ExampleOfOut\obj\Debug\ExampleOfOut.csproj.AssemblyReference.cache
+D:\MonoceptTraning\Feburary\Assignment4_POC\ExampleOfOut\obj\Debug\ExampleOfOut.csproj.SuggestedBindingRedirects.cache
+D:\MonoceptTraning\Feburary\Assignment4_POC\ExampleOfOut\obj\Debug\ExampleOfOut.csproj.CoreCompileInputs.cache
+D:\MonoceptTraning\Feburary\Assignment4_POC\ExampleOfOut\obj\Debug\ExampleOfOut.exe
+D:\MonoceptTraning\Feburary\Assignment4_POC\ExampleOfOut\obj\Debug\ExampleOfOut.pdb

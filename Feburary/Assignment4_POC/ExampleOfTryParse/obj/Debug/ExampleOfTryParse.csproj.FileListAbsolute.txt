@@ -1,0 +1,8 @@
+C:\MonoceptTraning\Assignment4_POC\ExampleOfTryParse\bin\Debug\ExampleOfTryParse.exe.config
+C:\MonoceptTraning\Assignment4_POC\ExampleOfTryParse\bin\Debug\ExampleOfTryParse.exe
+C:\MonoceptTraning\Assignment4_POC\ExampleOfTryParse\bin\Debug\ExampleOfTryParse.pdb
+C:\MonoceptTraning\Assignment4_POC\ExampleOfTryParse\obj\Debug\ExampleOfTryParse.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment4_POC\ExampleOfTryParse\obj\Debug\ExampleOfTryParse.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment4_POC\ExampleOfTryParse\obj\Debug\ExampleOfTryParse.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment4_POC\ExampleOfTryParse\obj\Debug\ExampleOfTryParse.exe
+C:\MonoceptTraning\Assignment4_POC\ExampleOfTryParse\obj\Debug\ExampleOfTryParse.pdb

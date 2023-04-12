@@ -1,0 +1,8 @@
+C:\MonoceptTraning\Assignment9_AccountArrayApp\ClassStructApp\obj\Debug\ClassStructApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment9_AccountArrayApp\ClassStructApp\obj\Debug\ClassStructApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment9_AccountArrayApp\ClassStructApp\obj\Debug\ClassStructApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment9_AccountArrayApp\ClassStructApp\bin\Debug\ClassStructApp.exe.config
+C:\MonoceptTraning\Assignment9_AccountArrayApp\ClassStructApp\bin\Debug\ClassStructApp.exe
+C:\MonoceptTraning\Assignment9_AccountArrayApp\ClassStructApp\bin\Debug\ClassStructApp.pdb
+C:\MonoceptTraning\Assignment9_AccountArrayApp\ClassStructApp\obj\Debug\ClassStructApp.exe
+C:\MonoceptTraning\Assignment9_AccountArrayApp\ClassStructApp\obj\Debug\ClassStructApp.pdb

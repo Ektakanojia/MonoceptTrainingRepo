@@ -1,0 +1,8 @@
+C:\MonoceptTraning\Assignment4_POC\StringImmuteableApp\bin\Debug\StringImmuteableApp.exe.config
+C:\MonoceptTraning\Assignment4_POC\StringImmuteableApp\bin\Debug\StringImmuteableApp.exe
+C:\MonoceptTraning\Assignment4_POC\StringImmuteableApp\bin\Debug\StringImmuteableApp.pdb
+C:\MonoceptTraning\Assignment4_POC\StringImmuteableApp\obj\Debug\StringImmuteableApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment4_POC\StringImmuteableApp\obj\Debug\StringImmuteableApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment4_POC\StringImmuteableApp\obj\Debug\StringImmuteableApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment4_POC\StringImmuteableApp\obj\Debug\StringImmuteableApp.exe
+C:\MonoceptTraning\Assignment4_POC\StringImmuteableApp\obj\Debug\StringImmuteableApp.pdb

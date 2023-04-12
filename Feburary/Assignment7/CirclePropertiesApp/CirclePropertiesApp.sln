@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirclePropertiesApp", "CirclePropertiesApp.csproj", "{1CF307FC-1BBB-4AA3-9D00-0468DE866F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF307FC-1BBB-4AA3-9D00-0468DE866F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF307FC-1BBB-4AA3-9D00-0468DE866F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF307FC-1BBB-4AA3-9D00-0468DE866F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF307FC-1BBB-4AA3-9D00-0468DE866F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2150E62-420A-45B7-94AB-DE18D6EAFF2C}
+	EndGlobalSection
+EndGlobal

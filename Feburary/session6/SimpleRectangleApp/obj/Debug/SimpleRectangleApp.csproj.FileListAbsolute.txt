@@ -1,0 +1,8 @@
+C:\MonoceptTraning\session6\SimpleRectangleApp\bin\Debug\SimpleRectangleApp.exe.config
+C:\MonoceptTraning\session6\SimpleRectangleApp\bin\Debug\SimpleRectangleApp.exe
+C:\MonoceptTraning\session6\SimpleRectangleApp\bin\Debug\SimpleRectangleApp.pdb
+C:\MonoceptTraning\session6\SimpleRectangleApp\obj\Debug\SimpleRectangleApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\session6\SimpleRectangleApp\obj\Debug\SimpleRectangleApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\session6\SimpleRectangleApp\obj\Debug\SimpleRectangleApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\session6\SimpleRectangleApp\obj\Debug\SimpleRectangleApp.exe
+C:\MonoceptTraning\session6\SimpleRectangleApp\obj\Debug\SimpleRectangleApp.pdb

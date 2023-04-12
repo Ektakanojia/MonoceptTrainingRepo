@@ -1,0 +1,8 @@
+C:\MonoceptTraning\session10\BoxingApp\bin\Debug\BoxingApp.exe.config
+C:\MonoceptTraning\session10\BoxingApp\bin\Debug\BoxingApp.exe
+C:\MonoceptTraning\session10\BoxingApp\bin\Debug\BoxingApp.pdb
+C:\MonoceptTraning\session10\BoxingApp\obj\Debug\BoxingApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\session10\BoxingApp\obj\Debug\BoxingApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\session10\BoxingApp\obj\Debug\BoxingApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\session10\BoxingApp\obj\Debug\BoxingApp.exe
+C:\MonoceptTraning\session10\BoxingApp\obj\Debug\BoxingApp.pdb

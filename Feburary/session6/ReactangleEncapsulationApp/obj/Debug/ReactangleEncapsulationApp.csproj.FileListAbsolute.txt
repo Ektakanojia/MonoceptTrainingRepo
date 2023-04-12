@@ -1,0 +1,8 @@
+C:\MonoceptTraning\session6\ReactangleEncapsulationApp\bin\Debug\ReactangleEncapsulationApp.exe.config
+C:\MonoceptTraning\session6\ReactangleEncapsulationApp\bin\Debug\ReactangleEncapsulationApp.exe
+C:\MonoceptTraning\session6\ReactangleEncapsulationApp\bin\Debug\ReactangleEncapsulationApp.pdb
+C:\MonoceptTraning\session6\ReactangleEncapsulationApp\obj\Debug\ReactangleEncapsulationApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\session6\ReactangleEncapsulationApp\obj\Debug\ReactangleEncapsulationApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\session6\ReactangleEncapsulationApp\obj\Debug\ReactangleEncapsulationApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\session6\ReactangleEncapsulationApp\obj\Debug\ReactangleEncapsulationApp.exe
+C:\MonoceptTraning\session6\ReactangleEncapsulationApp\obj\Debug\ReactangleEncapsulationApp.pdb

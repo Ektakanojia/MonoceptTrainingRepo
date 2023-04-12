@@ -1,0 +1,8 @@
+C:\MonoceptTraning\Session3\FunctionApp\bin\Debug\FunctionApp.exe.config
+C:\MonoceptTraning\Session3\FunctionApp\bin\Debug\FunctionApp.exe
+C:\MonoceptTraning\Session3\FunctionApp\bin\Debug\FunctionApp.pdb
+C:\MonoceptTraning\Session3\FunctionApp\obj\Debug\FunctionApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Session3\FunctionApp\obj\Debug\FunctionApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Session3\FunctionApp\obj\Debug\FunctionApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Session3\FunctionApp\obj\Debug\FunctionApp.exe
+C:\MonoceptTraning\Session3\FunctionApp\obj\Debug\FunctionApp.pdb

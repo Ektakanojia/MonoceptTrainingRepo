@@ -1,0 +1,16 @@
+C:\MonoceptTraning\session8\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe.config
+C:\MonoceptTraning\session8\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe
+C:\MonoceptTraning\session8\RectangleEnumApp\bin\Debug\RectangleEnumApp.pdb
+C:\MonoceptTraning\session8\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\session8\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\session8\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\session8\RectangleEnumApp\obj\Debug\RectangleEnumApp.exe
+C:\MonoceptTraning\session8\RectangleEnumApp\obj\Debug\RectangleEnumApp.pdb
+D:\MonoceptTraning\Feburary\session8\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe.config
+D:\MonoceptTraning\Feburary\session8\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe
+D:\MonoceptTraning\Feburary\session8\RectangleEnumApp\bin\Debug\RectangleEnumApp.pdb
+D:\MonoceptTraning\Feburary\session8\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.AssemblyReference.cache
+D:\MonoceptTraning\Feburary\session8\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.SuggestedBindingRedirects.cache
+D:\MonoceptTraning\Feburary\session8\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.CoreCompileInputs.cache
+D:\MonoceptTraning\Feburary\session8\RectangleEnumApp\obj\Debug\RectangleEnumApp.exe
+D:\MonoceptTraning\Feburary\session8\RectangleEnumApp\obj\Debug\RectangleEnumApp.pdb

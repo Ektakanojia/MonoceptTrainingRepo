@@ -1,0 +1,8 @@
+C:\MonoceptTraning\Assignment2\BasicStatsApp\bin\Debug\BasicStatsApp.exe.config
+C:\MonoceptTraning\Assignment2\BasicStatsApp\bin\Debug\BasicStatsApp.exe
+C:\MonoceptTraning\Assignment2\BasicStatsApp\bin\Debug\BasicStatsApp.pdb
+C:\MonoceptTraning\Assignment2\BasicStatsApp\obj\Debug\BasicStatsApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment2\BasicStatsApp\obj\Debug\BasicStatsApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment2\BasicStatsApp\obj\Debug\BasicStatsApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment2\BasicStatsApp\obj\Debug\BasicStatsApp.exe
+C:\MonoceptTraning\Assignment2\BasicStatsApp\obj\Debug\BasicStatsApp.pdb

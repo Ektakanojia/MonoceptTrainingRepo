@@ -1,0 +1,8 @@
+D:\MonoceptTraning\Feburary\Assignment10\EvenOddArrayApp\bin\Debug\EvenOddArrayApp.exe.config
+D:\MonoceptTraning\Feburary\Assignment10\EvenOddArrayApp\bin\Debug\EvenOddArrayApp.exe
+D:\MonoceptTraning\Feburary\Assignment10\EvenOddArrayApp\bin\Debug\EvenOddArrayApp.pdb
+D:\MonoceptTraning\Feburary\Assignment10\EvenOddArrayApp\obj\Debug\EvenOddArrayApp.csproj.AssemblyReference.cache
+D:\MonoceptTraning\Feburary\Assignment10\EvenOddArrayApp\obj\Debug\EvenOddArrayApp.csproj.SuggestedBindingRedirects.cache
+D:\MonoceptTraning\Feburary\Assignment10\EvenOddArrayApp\obj\Debug\EvenOddArrayApp.csproj.CoreCompileInputs.cache
+D:\MonoceptTraning\Feburary\Assignment10\EvenOddArrayApp\obj\Debug\EvenOddArrayApp.exe
+D:\MonoceptTraning\Feburary\Assignment10\EvenOddArrayApp\obj\Debug\EvenOddArrayApp.pdb

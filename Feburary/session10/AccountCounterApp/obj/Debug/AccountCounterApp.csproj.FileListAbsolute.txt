@@ -1,0 +1,8 @@
+C:\MonoceptTraning\session10\AccountCounterApp\bin\Debug\AccountCounterApp.exe.config
+C:\MonoceptTraning\session10\AccountCounterApp\bin\Debug\AccountCounterApp.exe
+C:\MonoceptTraning\session10\AccountCounterApp\bin\Debug\AccountCounterApp.pdb
+C:\MonoceptTraning\session10\AccountCounterApp\obj\Debug\AccountCounterApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\session10\AccountCounterApp\obj\Debug\AccountCounterApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\session10\AccountCounterApp\obj\Debug\AccountCounterApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\session10\AccountCounterApp\obj\Debug\AccountCounterApp.exe
+C:\MonoceptTraning\session10\AccountCounterApp\obj\Debug\AccountCounterApp.pdb

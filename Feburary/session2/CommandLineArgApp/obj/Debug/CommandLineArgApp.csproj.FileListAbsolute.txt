@@ -1,0 +1,8 @@
+C:\MonoceptTraning\session2\CommandLineArgApp\bin\Debug\CommandLineArgApp.exe.config
+C:\MonoceptTraning\session2\CommandLineArgApp\bin\Debug\CommandLineArgApp.exe
+C:\MonoceptTraning\session2\CommandLineArgApp\bin\Debug\CommandLineArgApp.pdb
+C:\MonoceptTraning\session2\CommandLineArgApp\obj\Debug\CommandLineArgApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\session2\CommandLineArgApp\obj\Debug\CommandLineArgApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\session2\CommandLineArgApp\obj\Debug\CommandLineArgApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\session2\CommandLineArgApp\obj\Debug\CommandLineArgApp.exe
+C:\MonoceptTraning\session2\CommandLineArgApp\obj\Debug\CommandLineArgApp.pdb

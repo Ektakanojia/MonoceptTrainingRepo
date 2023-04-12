@@ -1,0 +1,8 @@
+C:\MonoceptTraning\session10\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\MonoceptTraning\session10\CustomerApp\bin\Debug\CustomerApp.exe
+C:\MonoceptTraning\session10\CustomerApp\bin\Debug\CustomerApp.pdb
+C:\MonoceptTraning\session10\CustomerApp\obj\Debug\CustomerApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\session10\CustomerApp\obj\Debug\CustomerApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\session10\CustomerApp\obj\Debug\CustomerApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\session10\CustomerApp\obj\Debug\CustomerApp.exe
+C:\MonoceptTraning\session10\CustomerApp\obj\Debug\CustomerApp.pdb

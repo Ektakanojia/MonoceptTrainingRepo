@@ -1,0 +1,8 @@
+C:\MonoceptTraning\Assignment8_Pig_dice_game\PigDiceGame\bin\Debug\PigDiceGame.exe.config
+C:\MonoceptTraning\Assignment8_Pig_dice_game\PigDiceGame\bin\Debug\PigDiceGame.exe
+C:\MonoceptTraning\Assignment8_Pig_dice_game\PigDiceGame\bin\Debug\PigDiceGame.pdb
+C:\MonoceptTraning\Assignment8_Pig_dice_game\PigDiceGame\obj\Debug\PigDiceGame.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment8_Pig_dice_game\PigDiceGame\obj\Debug\PigDiceGame.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment8_Pig_dice_game\PigDiceGame\obj\Debug\PigDiceGame.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment8_Pig_dice_game\PigDiceGame\obj\Debug\PigDiceGame.exe
+C:\MonoceptTraning\Assignment8_Pig_dice_game\PigDiceGame\obj\Debug\PigDiceGame.pdb

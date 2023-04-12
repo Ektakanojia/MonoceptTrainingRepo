@@ -1,0 +1,25 @@
+Session 4
+Class work.
+1- Passing Values To The Function :App
+    
+    Three caseStudies:-
+    CaseStudy1 :-
+    What ever value of variable  pass to the function it will remain same .not modifiyed during function exceution.
+    CaseStudy2:
+    we use ref keyword to modify the value of the variable during function execution.
+    CaseStudy3:
+     we pass array to the function and assign  zero to every index during function excution.
+2- Overloading App
+    FunctionOverloading/Method Overloading:-
+     When multiple function having same name but different parameter called overloading.
+Assignment :-
+Poc on 
+In
+Out
+Ref
+Tryparse
+String and string builder.
+ 
+    
+    
+   

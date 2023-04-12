@@ -1,0 +1,16 @@
+C:\MonoceptTraning\Assignment9_StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\MonoceptTraning\Assignment9_StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\MonoceptTraning\Assignment9_StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\MonoceptTraning\Assignment9_StudentApp\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment9_StudentApp\StudentApp\obj\Debug\StudentApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment9_StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment9_StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\MonoceptTraning\Assignment9_StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+D:\MonoceptTraning\Feburary\Assignment8_Pig_dice_game\StudentApp\bin\Debug\StudentApp.exe.config
+D:\MonoceptTraning\Feburary\Assignment8_Pig_dice_game\StudentApp\bin\Debug\StudentApp.exe
+D:\MonoceptTraning\Feburary\Assignment8_Pig_dice_game\StudentApp\bin\Debug\StudentApp.pdb
+D:\MonoceptTraning\Feburary\Assignment8_Pig_dice_game\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+D:\MonoceptTraning\Feburary\Assignment8_Pig_dice_game\StudentApp\obj\Debug\StudentApp.csproj.SuggestedBindingRedirects.cache
+D:\MonoceptTraning\Feburary\Assignment8_Pig_dice_game\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\MonoceptTraning\Feburary\Assignment8_Pig_dice_game\StudentApp\obj\Debug\StudentApp.exe
+D:\MonoceptTraning\Feburary\Assignment8_Pig_dice_game\StudentApp\obj\Debug\StudentApp.pdb

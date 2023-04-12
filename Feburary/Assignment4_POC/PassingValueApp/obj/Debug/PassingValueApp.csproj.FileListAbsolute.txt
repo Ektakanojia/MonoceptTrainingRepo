@@ -1,0 +1,8 @@
+C:\MonoceptTraning\Assignment4_POC\PassingValueApp\bin\Debug\PassingValueApp.exe.config
+C:\MonoceptTraning\Assignment4_POC\PassingValueApp\bin\Debug\PassingValueApp.exe
+C:\MonoceptTraning\Assignment4_POC\PassingValueApp\bin\Debug\PassingValueApp.pdb
+C:\MonoceptTraning\Assignment4_POC\PassingValueApp\obj\Debug\PassingValueApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment4_POC\PassingValueApp\obj\Debug\PassingValueApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment4_POC\PassingValueApp\obj\Debug\PassingValueApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment4_POC\PassingValueApp\obj\Debug\PassingValueApp.exe
+C:\MonoceptTraning\Assignment4_POC\PassingValueApp\obj\Debug\PassingValueApp.pdb

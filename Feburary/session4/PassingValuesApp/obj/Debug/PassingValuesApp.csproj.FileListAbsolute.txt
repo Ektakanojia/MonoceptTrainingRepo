@@ -1,0 +1,16 @@
+C:\MonoceptTraning\session4\PassingValuesApp\bin\Debug\PassingValuesApp.exe.config
+C:\MonoceptTraning\session4\PassingValuesApp\bin\Debug\PassingValuesApp.exe
+C:\MonoceptTraning\session4\PassingValuesApp\bin\Debug\PassingValuesApp.pdb
+C:\MonoceptTraning\session4\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\session4\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\session4\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\session4\PassingValuesApp\obj\Debug\PassingValuesApp.exe
+C:\MonoceptTraning\session4\PassingValuesApp\obj\Debug\PassingValuesApp.pdb
+D:\MonoceptTraning\Feburary\session4\PassingValuesApp\bin\Debug\PassingValuesApp.exe.config
+D:\MonoceptTraning\Feburary\session4\PassingValuesApp\bin\Debug\PassingValuesApp.exe
+D:\MonoceptTraning\Feburary\session4\PassingValuesApp\bin\Debug\PassingValuesApp.pdb
+D:\MonoceptTraning\Feburary\session4\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.AssemblyReference.cache
+D:\MonoceptTraning\Feburary\session4\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.SuggestedBindingRedirects.cache
+D:\MonoceptTraning\Feburary\session4\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.CoreCompileInputs.cache
+D:\MonoceptTraning\Feburary\session4\PassingValuesApp\obj\Debug\PassingValuesApp.exe
+D:\MonoceptTraning\Feburary\session4\PassingValuesApp\obj\Debug\PassingValuesApp.pdb

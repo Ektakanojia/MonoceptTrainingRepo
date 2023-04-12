@@ -1,0 +1,16 @@
+C:\MonoceptTraning\session8\AccountApp\bin\Debug\AccountApp.exe.config
+C:\MonoceptTraning\session8\AccountApp\bin\Debug\AccountApp.exe
+C:\MonoceptTraning\session8\AccountApp\bin\Debug\AccountApp.pdb
+C:\MonoceptTraning\session8\AccountApp\obj\Debug\AccountApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\session8\AccountApp\obj\Debug\AccountApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\session8\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\session8\AccountApp\obj\Debug\AccountApp.exe
+C:\MonoceptTraning\session8\AccountApp\obj\Debug\AccountApp.pdb
+D:\MonoceptTraning\Feburary\session8\AccountApp\bin\Debug\AccountApp.exe.config
+D:\MonoceptTraning\Feburary\session8\AccountApp\bin\Debug\AccountApp.exe
+D:\MonoceptTraning\Feburary\session8\AccountApp\bin\Debug\AccountApp.pdb
+D:\MonoceptTraning\Feburary\session8\AccountApp\obj\Debug\AccountApp.csproj.AssemblyReference.cache
+D:\MonoceptTraning\Feburary\session8\AccountApp\obj\Debug\AccountApp.csproj.SuggestedBindingRedirects.cache
+D:\MonoceptTraning\Feburary\session8\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+D:\MonoceptTraning\Feburary\session8\AccountApp\obj\Debug\AccountApp.exe
+D:\MonoceptTraning\Feburary\session8\AccountApp\obj\Debug\AccountApp.pdb

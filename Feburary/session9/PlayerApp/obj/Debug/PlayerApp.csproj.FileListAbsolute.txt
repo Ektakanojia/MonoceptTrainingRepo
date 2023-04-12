@@ -1,0 +1,8 @@
+C:\MonoceptTraning\session9\PlayerApp\bin\Debug\PlayerApp.exe.config
+C:\MonoceptTraning\session9\PlayerApp\bin\Debug\PlayerApp.exe
+C:\MonoceptTraning\session9\PlayerApp\bin\Debug\PlayerApp.pdb
+C:\MonoceptTraning\session9\PlayerApp\obj\Debug\PlayerApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\session9\PlayerApp\obj\Debug\PlayerApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\session9\PlayerApp\obj\Debug\PlayerApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\session9\PlayerApp\obj\Debug\PlayerApp.exe
+C:\MonoceptTraning\session9\PlayerApp\obj\Debug\PlayerApp.pdb

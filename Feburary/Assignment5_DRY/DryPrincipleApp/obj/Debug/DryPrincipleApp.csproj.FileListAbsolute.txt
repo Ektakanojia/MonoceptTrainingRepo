@@ -1,0 +1,8 @@
+C:\MonoceptTraning\Assignment5_DRY\DryPrincipleApp\bin\Debug\DryPrincipleApp.exe.config
+C:\MonoceptTraning\Assignment5_DRY\DryPrincipleApp\bin\Debug\DryPrincipleApp.exe
+C:\MonoceptTraning\Assignment5_DRY\DryPrincipleApp\bin\Debug\DryPrincipleApp.pdb
+C:\MonoceptTraning\Assignment5_DRY\DryPrincipleApp\obj\Debug\DryPrincipleApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment5_DRY\DryPrincipleApp\obj\Debug\DryPrincipleApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment5_DRY\DryPrincipleApp\obj\Debug\DryPrincipleApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment5_DRY\DryPrincipleApp\obj\Debug\DryPrincipleApp.exe
+C:\MonoceptTraning\Assignment5_DRY\DryPrincipleApp\obj\Debug\DryPrincipleApp.pdb

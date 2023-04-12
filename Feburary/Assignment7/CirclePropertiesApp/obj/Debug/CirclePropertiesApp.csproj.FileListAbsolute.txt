@@ -1,0 +1,8 @@
+C:\MonoceptTraning\Assignment7\CirclePropertiesApp\bin\Debug\CirclePropertiesApp.exe.config
+C:\MonoceptTraning\Assignment7\CirclePropertiesApp\bin\Debug\CirclePropertiesApp.exe
+C:\MonoceptTraning\Assignment7\CirclePropertiesApp\bin\Debug\CirclePropertiesApp.pdb
+C:\MonoceptTraning\Assignment7\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment7\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment7\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment7\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.exe
+C:\MonoceptTraning\Assignment7\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.pdb

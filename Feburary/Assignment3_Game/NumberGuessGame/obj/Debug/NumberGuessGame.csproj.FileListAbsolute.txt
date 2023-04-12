@@ -1,0 +1,8 @@
+C:\MonoceptTraning\Assignment3_Game\NumberGuessGame\bin\Debug\NumberGuessGame.exe.config
+C:\MonoceptTraning\Assignment3_Game\NumberGuessGame\bin\Debug\NumberGuessGame.exe
+C:\MonoceptTraning\Assignment3_Game\NumberGuessGame\bin\Debug\NumberGuessGame.pdb
+C:\MonoceptTraning\Assignment3_Game\NumberGuessGame\obj\Debug\NumberGuessGame.csproj.AssemblyReference.cache
+C:\MonoceptTraning\Assignment3_Game\NumberGuessGame\obj\Debug\NumberGuessGame.csproj.SuggestedBindingRedirects.cache
+C:\MonoceptTraning\Assignment3_Game\NumberGuessGame\obj\Debug\NumberGuessGame.csproj.CoreCompileInputs.cache
+C:\MonoceptTraning\Assignment3_Game\NumberGuessGame\obj\Debug\NumberGuessGame.exe
+C:\MonoceptTraning\Assignment3_Game\NumberGuessGame\obj\Debug\NumberGuessGame.pdb
