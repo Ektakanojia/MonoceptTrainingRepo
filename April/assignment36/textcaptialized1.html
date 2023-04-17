@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #para{
+        text-transform: uppercase;
+    }
+</style>
+<body>
+    <h1 id="heading1"></h1>
+    <input type="text" id="text" placeholder="Enter the text you want to capitilized"/>
+    <p id="para"></p>
+    <script src="jquery-3.6.4.js"></script>
+    <script>
+     $(document).ready(function(){
+      $("#heading1")
+      .html("Text captalized")
+      .css({"color":"green"})
+     /*  $("#para")
+      .css({"height":"100px","width":"200px","border":"1px solid black"}) */
+      
+      $("#text").on('input',function(){
+           text=$('#text').val();
+           $("#para").html(text)
+      });
+
+     })
+    </script>
+</body>
+</html>

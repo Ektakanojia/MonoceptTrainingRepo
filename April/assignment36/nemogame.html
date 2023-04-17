@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Nemo Game</h1>
+    <button id="btn">start</button>
+    <div id="container">
+
+    </div>
+    <p id="rand"></p>
+    <script src="jquery-3.6.4.js"></script>
+    <script>
+        $(document).ready(function ()
+        {
+            $("#btn").click(function ()
+            {
+                for (i = 1; i < 50; i++)
+                {
+                    $("#container").append(`<button id="box${i}" type="button" style=background-color:gery;width:8%;height:600%;padding:10px 10px>${i}</button>&nbsp`)
+                    
+                }
+               $("#rand").text(Math.round(Math.random()*100))
+            })
+            $("#container").click(function(){
+            var value=$(`#box${i}`).text()
+            alert("value",value)
+            })
+        })
+    </script>
+</body>
+
+</html>

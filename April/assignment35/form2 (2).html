@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    table,
+    td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+</style>
+
+<body>
+    <h1>Form</h1>
+    <form action="">
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" required>
+        </div>
+        <div>
+            <label for="gender">Gender:</label>
+            <input type="radio" id="male" name="gender" value="male" required>
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female" required>
+            <label for="female">Female</label>
+        </div>
+        <div>
+            <label for="cgpa">CGPA:</label>
+            <input type="number" id="cgpa" step="0.01" min="0" max="10" required>
+        </div>
+        <div>
+            <label>Branch</label>
+            <select id="branch" required>
+                <option value=""></option>
+                <option value="BCA">BCA</option>
+                <option value="MCA">MCA</option>
+                <option value="CS">CS</option>
+                <option value="IT">IT</option>
+            </select>
+        </div>
+        <button type="button" id="addBtn">Add</button>
+        <button type="button" id="viewBtn">View</button>
+    </form>
+    <div>
+        <h2>Student Table</h2>
+        <table id="studentTable">
+            <thead>
+                <tr>
+                    <td>Name</td>
+                    <td>Gender</td>
+                    <td>CGPA</td>
+                    <td>Branch</td>
+                    <td>Action</td>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    <script>
+        var studentDetails = JSON.parse(localStorage.getItem("studentData")) || [];
+        var tableBody = document.querySelector("#studentTable tbody");
+
+        document.getElementById("addBtn").addEventListener("click", add);
+        document.getElementById("viewBtn").addEventListener("click", view);
+
+        function add()
+        {
+            var name = document.getElementById("name").value;
+            var gender = document.querySelector('input[name="gender"]:checked').value;
+            var cgpa = document.getElementById("cgpa").value;
+            var branch = document.getElementById("branch").value;
+
+            if (!name || !gender || !branch || !cgpa)
+            {
+                alert("Please enter all fields.");
+                return;
+            }
+            studentDetails.push({
+                name: name,
+                gender: gender,
+                cgpa: cgpa,
+                branch: branch
+            });
+            localStorage.setItem("studentData", JSON.stringify(studentDetails));
+
+            var row = createRow(studentDetails[studentDetails.length - 1]);
+            tableBody.appendChild(row);
+
+            // clear form fields
+            document.getElementById("name").value = "";
+            document.querySelector('input[name="gender"]:checked').checked = false;
+            document.getElementById("cgpa").value = "";
+            document.getElementById("branch").value = "";
+            alert("Data added successfully.");
+        }
+        function view()
+        {// clear existing table rows
+            while (tableBody.firstChild)
+            {
+                tableBody.removeChild(tableBody.firstChild);
+            }
+            studentDetails.forEach(function (student, index)
+            {
+                var row = document.createElement("tr");
+
+                var nameCell = document.createElement("td");
+                nameCell.textContent = student.name;
+                row.appendChild(nameCell);
+
+                var genderCell = document.createElement("td");
+                genderCell.textContent = student.gender;
+                row.appendChild(genderCell);
+
+                var cgpaCell = document.createElement("td");
+                cgpaCell.textContent = student.cgpa;
+                row.appendChild(cgpaCell);
+
+                var branchCell = document.createElement("td");
+                branchCell.textContent = student.branch;
+                row.appendChild(branchCell);
+
+                var actionCell = document.createElement("td");
+                var deleteBtn = document.createElement("button");
+                deleteBtn.textContent = "Delete";
+                deleteBtn.addEventListener("click", function ()
+                {
+                    deleteRow(index);
+                });
+                actionCell.appendChild(deleteBtn);
+                row.appendChild(actionCell);
+
+                tableBody.appendChild(row);
+            });
+        }
+
+        function deleteRow(index)
+        {
+            if (confirm("Are you sure you want to delete this row?"))
+            {
+                studentDetails.splice(index, 1);
+                localStorage.setItem("studentData", JSON.stringify(studentDetails));
+                view();
+            }
+        }
+    </script>
+</body>
+
+</html>

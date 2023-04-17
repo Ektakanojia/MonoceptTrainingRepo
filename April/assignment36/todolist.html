@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1 id="heading1">Todo List</h1>
+    <h1 id="heading2"></h1>
+    <div id="mytext">
+        <input type="text" placeholder="enter the text" id="text" />
+    </div>
+    <div id="textcontainer">
+
+    </div>
+    <button id="add">Add</button>
+    <script src="jquery-3.6.4.js"></script>
+    <script>
+        $(document).ready(function ()
+        {
+            $("#heading2")
+                .html("Add task to the list")
+                .css({ "color": "green" })
+                .fadeOut(5 * 1000)
+                .fadeIn(5 * 1000)
+            $("#add").click(function ()
+            {
+                if ($("#text").val().length != 0)
+                {
+                    var x = $("#textcontainer").html();
+                    var y = `<div class = "alert alert-success alert-dismissible fade in">  
+<a href = "#" class = "close" data-dismiss = "alert" aria-label = "close"></a> ` + $('#text').val() + ` </div>`;
+                    $("#textcontainer").html(y + x);
+                    $("text").val("");
+                } else
+                {
+                 alert("Enter some text")
+                }
+            })
+        });
+    </script>
+</body>
+
+</html>

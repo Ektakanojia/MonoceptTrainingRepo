@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    table,
+    td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+</style>
+
+<body>
+    <h1>Form</h1>
+    <form action="">
+        <div>
+            <label>Name</label>
+            <input type="text" id="name">
+        </div>
+        <div>
+            <label>Gender</label>
+            <input type="radio" id="male" name="gender" value="male">Male</input>
+            <input type="radio" id="female" name="gender" value="female">Female</input>
+        </div>
+        <div>
+            <label>CGPA</label>
+            <input type="text" id="cgpa">
+        </div>
+        <div>
+            <label>Branch</label>
+            <select id="branch">
+                <option value=""></option>
+                <option value="bca">BCA</option>
+                <option value="mca">MCA</option>
+                <option value="cs">CS</option>
+                <option value="it">IT</option>
+            </select>
+        </div>
+    </form>
+    <input type="button" onclick="add()" value="Add">
+    <input type="button" onclick="displayTable()" value="View">
+    <div>
+        <table id="studentTable">
+            <thead>
+                <td>Name</td>
+                <td>Gender</td>
+                <td>CGPA</td>
+                <td>Branch</td>
+                <td>Action</td>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    <script>
+        var studentDetails = new Array();
+
+
+        function add()
+        {
+            getData();
+            var tableBody = document.querySelector("#studentTable tbody")
+            if (!name || !gender || !branch || !cgpa)
+            {
+                alert("Please enter all fields.");
+                return;
+            }
+            studentDetails.push({
+                name: document.getElementById("name").value,
+                gender: getGender(),
+                cgpa: document.getElementById("cgpa").value,
+                branch: document.getElementById("branch").value
+            });
+            localStorage.setItem("studentData", JSON.stringify(studentDetails));
+
+            var row = createRow(studentDetails);
+            console.log(row)
+            tableBody.appendChild(row);
+
+            // clear form fields
+            document.getElementById("name").value = "";
+            document.getElementById("male").checked = false;
+            document.getElementById("female").checked = false;
+            document.getElementById("branch").value = "CSE";
+            document.getElementById("cgpa").value = "";
+        }
+        console.log(studentDetails)
+
+        function getData()
+        {
+            var str = localStorage.getItem("studentData");
+            if (str != null)
+            {
+                studentDetails = JSON.parse(str)
+            }
+
+        }
+        function displayTable()
+        {
+            var tableBody = document.querySelector("#studentTable tbody")
+            for (var i = 0; i < studentDetails.length; i++)
+            {
+                var student = studentDetails[i];
+                var row = createRow(student)
+                tableBody.appendChild(row)
+            }
+        }
+        function createRow(studentDetails)
+        {
+            var row = document.createElement("tr")
+
+            var nameCell = document.createElement("td")
+            nameCell.textContent = studentDetails.name;
+            row.appendChild(nameCell)
+
+            var genderCell = document.createElement("td")
+            genderCell.textContent = studentDetails.gender;
+            row.appendChild(genderCell)
+
+            var cgpaCell = document.createElement("td")
+            cgpaCell.textContent = studentDetails.cgpa;
+            row.appendChild(cgpaCell)
+
+            var branchCell = document.createElement("td")
+            branchCell.textContent = studentDetails.branch;
+            row.appendChild(branchCell)
+
+            var actionCell = document.createElement("td");
+            var deleteButton = document.createElement("button");
+            deleteButton.textContent = "X";
+            deleteButton.onclick = function ()
+            {
+                if (confirm("Are you sure you want to delete this row?"))
+                {
+                    // remove student from array and save to local storage
+                    var index = studentDetails[this];
+                    console.log(index);
+                    studentDetails.splice(index, 1);
+                    localStorage.setItem("studentDetails", JSON.stringify(studentDetails));
+
+                    // remove row from table
+                    row.remove();
+                }
+            };
+            actionCell.appendChild(deleteButton);
+            row.appendChild(actionCell);
+
+            return row
+        }
+
+        function getGender()
+        {
+            var genderInput = document.getElementsByName('gender')
+            for (var i = 0; i < genderInput[i].length; i++)
+            {
+                if (genderInput[i].checked)
+                {
+                    gender = genderInput[i].value
+                }
+            }
+            return gender;
+        }
+    </script>
+</body>
+
+</html>

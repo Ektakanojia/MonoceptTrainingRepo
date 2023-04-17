@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+   /*  #imagediv{
+        display: none;
+    } */
+</style>
+<body>
+    <h1>Toggle image using jquery</h1>
+    <div id="imagediv">
+          <img src="https://images.unsplash.com/photo-1681218075282-8c0fc2830cd7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60" />
+   </div>
+    <button id="hide">Hide</button>
+    <button id="show">Show</button>
+    <script src="jquery-3.6.4.js"> </script>
+    <script>
+      $(document).ready(function(){
+        $('#hide').click(function(){
+            $('img').hide();
+        });
+        $('#show').click(function(){
+           $('img').show();
+        });
+      });
+    </script>
+</body>
+
+</html>
