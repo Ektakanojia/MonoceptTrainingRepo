@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="firstFlag">
+
+    </div>
+    <button onclick="getDataHandler()">Get Data</button>
+    <script>
+        function getDataAsync()
+        {
+            return new Promise(function (resolve, reject)
+            {
+                var xhr = new XMLHttpRequest();
+                xhr.addEventListener("load", function ()
+                {
+                    var resp = JSON.parse(this.responseText)
+                    resolve(resp)
+                })
+                xhr.open("GET", "https://restcountries.com/v3.1/all?fields=name,flags")
+                xhr.send();
+            })
+
+        }
+        /* async function getDataHandler()
+        {
+         var countries = await getDataAsync();
+         console.log(countries)
+         var image="";
+         console.log(countries[0].flags.png)
+         for(let i=0;i<countries.length;i++)
+         {
+            image+=`<h1>${countries[i].name.common}</h1>`;
+            image+=`<img src="${countries[i].flags.png}">`
+         }
+         document.querySelector("#firstFlag").innerHTML=image
+        }
+ */
+        async function getDataHandler()
+        {
+            var countries = await getDataAsync();
+            console.log(countries)
+            var mappedCountries = countries.map(c=>
+            {
+                var obj={}
+                obj.flag = c.flags.png
+                obj.name=c.name.common
+                return obj
+            })
+            var india=mappedCountries.find(c=>c.name.toUpperCase()=="INDIA");
+             console.log("india",india)
+            document.getElementById("firstFlag").src = india.flag
+            //document.querySelector("#firstFlag").innerHTML=india.flag
+        }
+    </script>
+</body>
+
+</html>
